@@ -2,10 +2,10 @@
 
 ## GROUP <add-group-name>
 
-- Member 1: <add-name>
-- Member 2: <add-name>
-- Member 3: <add-name>
-- Member 4: <add-name>
+- Member 1: <Nguyen Viet Hung>
+- Member 2: <LVHoan>
+- Member 3: <LDQHuy>
+- Member 4: <PVQAnh>
 
 ## Starting server
 
